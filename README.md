@@ -7,3 +7,4 @@ This project was written to run on Ubuntu 14.04
 This project relies heavily onthe following libraries 
 * libglut3-dev
 * libglew-dev
+* eigen3
